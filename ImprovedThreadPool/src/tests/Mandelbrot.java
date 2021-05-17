@@ -1,4 +1,4 @@
-package _04_Thread_Pool.tests;
+package tests;
 import java.awt.Color;
 import java.awt.event.KeyEvent;
 import java.awt.event.KeyListener;

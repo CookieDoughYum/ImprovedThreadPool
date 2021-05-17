@@ -1,9 +1,12 @@
-package _04_Thread_Pool.tests;
-import static org.junit.jupiter.api.Assertions.*;
+package tests;
+
+import static org.junit.Assert.assertArrayEquals;
+import static org.junit.Assert.assertTrue;
 
 import javax.swing.JOptionPane;
 
 import org.junit.jupiter.api.Test;
+
 
 class DistanceFromCenterTest {
 
